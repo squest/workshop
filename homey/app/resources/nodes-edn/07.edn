@@ -1,0 +1,1752 @@
+[{:seq 0,
+  :level 1,
+  :title "Kelas 7",
+  :code "K13R-0701",
+  :parent-code "K13R-07"}
+ {:seq 1,
+  :level 2,
+  :title "Matematika",
+  :code "K13R-070101",
+  :parent-code "K13R-0701"}
+ {:seq 2,
+  :level 3,
+  :title "Himpunan",
+  :code "K13R-07010101",
+  :parent-code "K13R-070101"}
+ {:seq 3,
+  :level 4,
+  :title "Menemukan Konsep Himpunan",
+  :code "K13R-0701010101",
+  :parent-code "K13R-07010101"}
+ {:seq 4,
+  :level 5,
+  :title "Preview Himpunan",
+  :code "K13R-070101010101",
+  :parent-code "K13R-0701010101"}
+ {:seq 5,
+  :level 5,
+  :title "Pengertian Himpunan",
+  :code "K13R-070101010102",
+  :parent-code "K13R-0701010101"}
+ {:seq 6,
+  :level 4,
+  :title "Penyajian Himpunan",
+  :code "K13R-0701010102",
+  :parent-code "K13R-07010101"}
+ {:seq 7,
+  :level 5,
+  :title "Penyajian Himpunan",
+  :code "K13R-070101010201",
+  :parent-code "K13R-0701010102"}
+ {:seq 8,
+  :level 5,
+  :title "Enumerasi",
+  :code "K13R-070101010202",
+  :parent-code "K13R-0701010102"}
+ {:seq 9,
+  :level 5,
+  :title "Menyatakan Sifat yang Dimiliki Anggotanya",
+  :code "K13R-070101010203",
+  :parent-code "K13R-0701010102"}
+ {:seq 10,
+  :level 5,
+  :title "Notasi Pembantuk Himpunan",
+  :code "K13R-070101010204",
+  :parent-code "K13R-0701010102"}
+ {:seq 11,
+  :level 4,
+  :title "Konsep Diagram Semesta dan Diagram Venn",
+  :code "K13R-0701010103",
+  :parent-code "K13R-07010101"}
+ {:seq 12,
+  :level 5,
+  :title "Pengertian Diagram Semesta",
+  :code "K13R-070101010301",
+  :parent-code "K13R-0701010103"}
+ {:seq 13,
+  :level 5,
+  :title "Pengertian Diagram Venn",
+  :code "K13R-070101010302",
+  :parent-code "K13R-0701010103"}
+ {:seq 14,
+  :level 4,
+  :title "Kardinalitas Himpunan",
+  :code "K13R-0701010104",
+  :parent-code "K13R-07010101"}
+ {:seq 15,
+  :level 5,
+  :title "Pengertian Kardinalitas Himpunan",
+  :code "K13R-070101010401",
+  :parent-code "K13R-0701010104"}
+ {:seq 16,
+  :level 4,
+  :title "Konsep Himpunan Kosong",
+  :code "K13R-0701010105",
+  :parent-code "K13R-07010101"}
+ {:seq 17,
+  :level 5,
+  :title "Pengertian Himpunan Kosong",
+  :code "K13R-070101010501",
+  :parent-code "K13R-0701010105"}
+ {:seq 18,
+  :level 4,
+  :title "Relasi Himpunan",
+  :code "K13R-0701010106",
+  :parent-code "K13R-07010101"}
+ {:seq 19,
+  :level 5,
+  :title "Pengertian Himpunan Bagian",
+  :code "K13R-070101010601",
+  :parent-code "K13R-0701010106"}
+ {:seq 20,
+  :level 5,
+  :title "Hubungan Antar Himpunan",
+  :code "K13R-070101010602",
+  :parent-code "K13R-0701010106"}
+ {:seq 21,
+  :level 4,
+  :title "Operasi Himpunan",
+  :code "K13R-0701010107",
+  :parent-code "K13R-07010101"}
+ {:seq 22,
+  :level 5,
+  :title "Operasi Irisan Pada Himpunan",
+  :code "K13R-070101010701",
+  :parent-code "K13R-0701010107"}
+ {:seq 23,
+  :level 5,
+  :title "Operasi Gabungan Pada Himpunan",
+  :code "K13R-070101010702",
+  :parent-code "K13R-0701010107"}
+ {:seq 24,
+  :level 5,
+  :title "Operasi Selisih Pada Himpunan",
+  :code "K13R-070101010703",
+  :parent-code "K13R-0701010107"}
+ {:seq 25,
+  :level 5,
+  :title "Operasi Komplemen Pada Himpunan",
+  :code "K13R-070101010704",
+  :parent-code "K13R-0701010107"}
+ {:seq 26,
+  :level 3,
+  :title "Bilangan",
+  :code "K13R-07010102",
+  :parent-code "K13R-070101"}
+ {:seq 27,
+  :level 4,
+  :title "Konsep Bilangan Bulat",
+  :code "K13R-0701010201",
+  :parent-code "K13R-07010102"}
+ {:seq 28,
+  :level 5,
+  :title "Preview Teori Bilangan",
+  :code "K13R-070101020101",
+  :parent-code "K13R-0701010201"}
+ {:seq 29,
+  :level 4,
+  :title "Operasi Bilangan Bulat",
+  :code "K13R-0701010202",
+  :parent-code "K13R-07010102"}
+ {:seq 30,
+  :level 5,
+  :title "Preview Teori - Penjumlahan dan Pengurangan",
+  :code "K13R-070101020201",
+  :parent-code "K13R-0701010202"}
+ {:seq 31,
+  :level 4,
+  :title "Perkalian dan Pembagian",
+  :code "K13R-0701010203",
+  :parent-code "K13R-07010102"}
+ {:seq 32,
+  :level 4,
+  :title
+  "Faktor Prima, Faktorisasi Berkaitan dengan KPK dan FPB (ada dua CG)",
+  :code "K13R-0701010204",
+  :parent-code "K13R-07010102"}
+ {:seq 33,
+  :level 5,
+  :title "Bilangan Bulat Habis Dibagi Bilangan Bulat",
+  :code "K13R-070101020401",
+  :parent-code "K13R-0701010204"}
+ {:seq 34,
+  :level 5,
+  :title "Faktor Bilangan Bulat",
+  :code "K13R-070101020402",
+  :parent-code "K13R-0701010204"}
+ {:seq 35,
+  :level 5,
+  :title "Bilangan Prima",
+  :code "K13R-070101020403",
+  :parent-code "K13R-0701010204"}
+ {:seq 36,
+  :level 5,
+  :title "Faktor Prima",
+  :code "K13R-070101020404",
+  :parent-code "K13R-0701010204"}
+ {:seq 37,
+  :level 5,
+  :title "Faktorisasi Prima Bilangan Bulat",
+  :code "K13R-070101020405",
+  :parent-code "K13R-0701010204"}
+ {:seq 38,
+  :level 4,
+  :title "Pola Bilangan Bulat",
+  :code "K13R-0701010205",
+  :parent-code "K13R-07010102"}
+ {:seq 39,
+  :level 4,
+  :title "Menemukan Konsep Bilangan Pecahan",
+  :code "K13R-0701010206",
+  :parent-code "K13R-07010102"}
+ {:seq 40,
+  :level 5,
+  :title "Pecahan",
+  :code "K13R-070101020601",
+  :parent-code "K13R-0701010206"}
+ {:seq 41,
+  :level 4,
+  :title "Bilangan Rasional",
+  :code "K13R-0701010207",
+  :parent-code "K13R-07010102"}
+ {:seq 42,
+  :level 5,
+  :title "Bilangan Rasional",
+  :code "K13R-070101020701",
+  :parent-code "K13R-0701010207"}
+ {:seq 43,
+  :level 3,
+  :title "Garis dan Sudut",
+  :code "K13R-07010103",
+  :parent-code "K13R-070101"}
+ {:seq 44,
+  :level 4,
+  :title "Konsep Titik, Garis, dan Bidang",
+  :code "K13R-0701010301",
+  :parent-code "K13R-07010103"}
+ {:seq 45,
+  :level 5,
+  :title "Pengertian Titik, Garis, dan Bidang",
+  :code "K13R-070101030101",
+  :parent-code "K13R-0701010301"}
+ {:seq 46,
+  :level 5,
+  :title "Pengertian Segmen Garis",
+  :code "K13R-070101030102",
+  :parent-code "K13R-0701010301"}
+ {:seq 47,
+  :level 4,
+  :title "Kedudukan Garis",
+  :code "K13R-0701010302",
+  :parent-code "K13R-07010103"}
+ {:seq 48,
+  :level 5,
+  :title "Pengertian Garis Berpotongan dan Sejajar",
+  :code "K13R-070101030201",
+  :parent-code "K13R-0701010302"}
+ {:seq 49,
+  :level 5,
+  :title "Pengertian Garis Berhimpit dan Bersilangan",
+  :code "K13R-070101030202",
+  :parent-code "K13R-0701010302"}
+ {:seq 50,
+  :level 5,
+  :title "Kedudukan Garis",
+  :code "K13R-070101030203",
+  :parent-code "K13R-0701010302"}
+ {:seq 51,
+  :level 4,
+  :title "Konsep Sudut",
+  :code "K13R-0701010303",
+  :parent-code "K13R-07010103"}
+ {:seq 52,
+  :level 5,
+  :title "Pengertian Sudut",
+  :code "K13R-070101030301",
+  :parent-code "K13R-0701010303"}
+ {:seq 53,
+  :level 5,
+  :title "Jenis-jenis Sudut",
+  :code "K13R-070101030302",
+  :parent-code "K13R-0701010303"}
+ {:seq 54,
+  :level 5,
+  :title "Mengukur Sudut dengan Busur",
+  :code "K13R-070101030303",
+  :parent-code "K13R-0701010303"}
+ {:seq 55,
+  :level 5,
+  :title "Menggambar Sudut dengan Busur",
+  :code "K13R-070101030304",
+  :parent-code "K13R-0701010303"}
+ {:seq 56,
+  :level 4,
+  :title "Hubungan Antar Sudut",
+  :code "K13R-0701010304",
+  :parent-code "K13R-07010103"}
+ {:seq 57,
+  :level 5,
+  :title "Pengertian Sudut Berpelurus",
+  :code "K13R-070101030401",
+  :parent-code "K13R-0701010304"}
+ {:seq 58,
+  :level 5,
+  :title "Pengertian Sudut Berpenyiku",
+  :code "K13R-070101030402",
+  :parent-code "K13R-0701010304"}
+ {:seq 59,
+  :level 5,
+  :title "Pengertian Sudut Bertolak Belakang",
+  :code "K13R-070101030403",
+  :parent-code "K13R-0701010304"}
+ {:seq 60,
+  :level 5,
+  :title "Pengertian Sudut Sehadap dan Berseberangan",
+  :code "K13R-070101030404",
+  :parent-code "K13R-0701010304"}
+ {:seq 61,
+  :level 3,
+  :title "Segiempat dan Segitiga",
+  :code "K13R-07010104",
+  :parent-code "K13R-070101"}
+ {:seq 62,
+  :level 4,
+  :title
+  "Sifat Segiempat Untuk Menentukan Keliling dan Luas Persegi dan Persegi Panjang",
+  :code "K13R-0701010401",
+  :parent-code "K13R-07010104"}
+ {:seq 63,
+  :level 5,
+  :title "Preview Teori Segiempat dan Segitiga",
+  :code "K13R-070101040101",
+  :parent-code "K13R-0701010401"}
+ {:seq 64,
+  :level 5,
+  :title "Pengertian Persegi Panjang",
+  :code "K13R-070101040102",
+  :parent-code "K13R-0701010401"}
+ {:seq 65,
+  :level 5,
+  :title "Pengertian Persegi",
+  :code "K13R-070101040103",
+  :parent-code "K13R-0701010401"}
+ {:seq 66,
+  :level 5,
+  :title "Menghitung Luas dan Keliling Persegi Panjang dan Persegi",
+  :code "K13R-070101040104",
+  :parent-code "K13R-0701010401"}
+ {:seq 67,
+  :level 4,
+  :title "Segitiga",
+  :code "K13R-0701010402",
+  :parent-code "K13R-07010104"}
+ {:seq 68,
+  :level 5,
+  :title "Pengertian Segitiga",
+  :code "K13R-070101040201",
+  :parent-code "K13R-0701010402"}
+ {:seq 69,
+  :level 5,
+  :title "Jenis-jenis Segitiga Berdasarkan Panjang Sisi",
+  :code "K13R-070101040202",
+  :parent-code "K13R-0701010402"}
+ {:seq 70,
+  :level 5,
+  :title "Jenis-jenis Segitiga Berdasarkan Besar Sudut",
+  :code "K13R-070101040203",
+  :parent-code "K13R-0701010402"}
+ {:seq 71,
+  :level 5,
+  :title
+  "Jenis-jenis Segitiga Berdasarkan Panjang Sisi dan Besar Sudut",
+  :code "K13R-070101040204",
+  :parent-code "K13R-0701010402"}
+ {:seq 72,
+  :level 5,
+  :title "Menghitung Luas dan Keliling Segitiga",
+  :code "K13R-070101040205",
+  :parent-code "K13R-0701010402"}
+ {:seq 73,
+  :level 4,
+  :title "Trapesium",
+  :code "K13R-0701010403",
+  :parent-code "K13R-07010104"}
+ {:seq 74,
+  :level 5,
+  :title "Pengertian Trapesium",
+  :code "K13R-070101040301",
+  :parent-code "K13R-0701010403"}
+ {:seq 75,
+  :level 5,
+  :title "Jenis-jenis Trapesium",
+  :code "K13R-070101040302",
+  :parent-code "K13R-0701010403"}
+ {:seq 76,
+  :level 5,
+  :title "Menghitung Luas Trapesium",
+  :code "K13R-070101040303",
+  :parent-code "K13R-0701010403"}
+ {:seq 77,
+  :level 5,
+  :title "Menghitung Keliling Trapesium",
+  :code "K13R-070101040304",
+  :parent-code "K13R-0701010403"}
+ {:seq 78,
+  :level 4,
+  :title "Jajar Genjang",
+  :code "K13R-0701010404",
+  :parent-code "K13R-07010104"}
+ {:seq 79,
+  :level 5,
+  :title "Pengertian Jajar Genjang",
+  :code "K13R-070101040401",
+  :parent-code "K13R-0701010404"}
+ {:seq 80,
+  :level 5,
+  :title "Menghitung Luas Jajar Genjang",
+  :code "K13R-070101040402",
+  :parent-code "K13R-0701010404"}
+ {:seq 81,
+  :level 5,
+  :title "Keliling Jajar Genjang",
+  :code "K13R-070101040403",
+  :parent-code "K13R-0701010404"}
+ {:seq 82,
+  :level 4,
+  :title "Belah Ketupat",
+  :code "K13R-0701010405",
+  :parent-code "K13R-07010104"}
+ {:seq 83,
+  :level 5,
+  :title "Pengertian Belah Ketupat",
+  :code "K13R-070101040501",
+  :parent-code "K13R-0701010405"}
+ {:seq 84,
+  :level 5,
+  :title "Menghitung Luas Belah Ketupat",
+  :code "K13R-070101040502",
+  :parent-code "K13R-0701010405"}
+ {:seq 85,
+  :level 5,
+  :title "Menghitung Keliling Belah Ketupat",
+  :code "K13R-070101040503",
+  :parent-code "K13R-0701010405"}
+ {:seq 86,
+  :level 4,
+  :title "Layang-layang",
+  :code "K13R-0701010406",
+  :parent-code "K13R-07010104"}
+ {:seq 87,
+  :level 5,
+  :title "Pengertian Layang-layang",
+  :code "K13R-070101040601",
+  :parent-code "K13R-0701010406"}
+ {:seq 88,
+  :level 5,
+  :title "Menghitung Luas Layang-layang",
+  :code "K13R-070101040602",
+  :parent-code "K13R-0701010406"}
+ {:seq 89,
+  :level 5,
+  :title "Menghitung Keliling Layang-layang",
+  :code "K13R-070101040603",
+  :parent-code "K13R-0701010406"}
+ {:seq 90,
+  :level 4,
+  :title "Luas Bangun Tidak Beraturan",
+  :code "K13R-0701010407",
+  :parent-code "K13R-07010104"}
+ {:seq 91,
+  :level 5,
+  :title "Menghitung Luas Bangun Tidak Beraturan",
+  :code "K13R-070101040701",
+  :parent-code "K13R-0701010407"}
+ {:seq 92,
+  :level 5,
+  :title "Menghitung Luas Bangun Datar Gabungan",
+  :code "K13R-070101040702",
+  :parent-code "K13R-0701010407"}
+ {:seq 93,
+  :level 3,
+  :title "Perbandingan Skala",
+  :code "K13R-07010105",
+  :parent-code "K13R-070101"}
+ {:seq 94,
+  :level 4,
+  :title "Perbandingan",
+  :code "K13R-0701010501",
+  :parent-code "K13R-07010105"}
+ {:seq 95,
+  :level 5,
+  :title "Teori Perbandingan",
+  :code "K13R-070101050101",
+  :parent-code "K13R-0701010501"}
+ {:seq 96,
+  :level 4,
+  :title "Jenis Perbandingan",
+  :code "K13R-0701010502",
+  :parent-code "K13R-07010105"}
+ {:seq 97,
+  :level 5,
+  :title "Perbandingan Senilai",
+  :code "K13R-070101050201",
+  :parent-code "K13R-0701010502"}
+ {:seq 98,
+  :level 5,
+  :title "Perbandingan Berbalik Nilai",
+  :code "K13R-070101050202",
+  :parent-code "K13R-0701010502"}
+ {:seq 99,
+  :level 4,
+  :title "Skala Sebagai Perbandingan",
+  :code "K13R-0701010503",
+  :parent-code "K13R-07010105"}
+ {:seq 100,
+  :level 5,
+  :title "Teori Skala",
+  :code "K13R-070101050301",
+  :parent-code "K13R-0701010503"}
+ {:seq 101,
+  :level 3,
+  :title "Persamaan dan Pertidaksamaan Satu Variabel",
+  :code "K13R-07010106",
+  :parent-code "K13R-070101"}
+ {:seq 102,
+  :level 4,
+  :title "Kalimat Terbuka, Tertutup",
+  :code "K13R-0701010601",
+  :parent-code "K13R-07010106"}
+ {:seq 103,
+  :level 5,
+  :title "Kalimat Terbuka dan Tertutup",
+  :code "K13R-070101060101",
+  :parent-code "K13R-0701010601"}
+ {:seq 104,
+  :level 4,
+  :title "Bentuk Setara/Ekuivalen Persamaan Satu Variabel",
+  :code "K13R-0701010602",
+  :parent-code "K13R-07010106"}
+ {:seq 105,
+  :level 4,
+  :title "Pertidaksamaan Satu Variabel",
+  :code "K13R-0701010603",
+  :parent-code "K13R-07010106"}
+ {:seq 106,
+  :level 5,
+  :title "Teori Pertidaksamaan Linear Satu Variabel",
+  :code "K13R-070101060301",
+  :parent-code "K13R-0701010603"}
+ {:seq 107,
+  :level 5,
+  :title
+  "Sifat-sifat Pertidaksamaan Linear Satu Variabel (tambah dan kurang)",
+  :code "K13R-070101060302",
+  :parent-code "K13R-0701010603"}
+ {:seq 108,
+  :level 5,
+  :title
+  "Sifat-sifat Pertidaksamaan Linear Satu Variabel (kali dan bagi)",
+  :code "K13R-070101060303",
+  :parent-code "K13R-0701010603"}
+ {:seq 109,
+  :level 3,
+  :title "Aritmetika Sosial",
+  :code "K13R-07010107",
+  :parent-code "K13R-070101"}
+ {:seq 110,
+  :level 4,
+  :title "Harga Penjualan, Pembelian, Untung, dan Rugi",
+  :code "K13R-0701010701",
+  :parent-code "K13R-07010107"}
+ {:seq 111,
+  :level 5,
+  :title "Teori Harga Penjualan, Pembelian, Untung, dan Rugi",
+  :code "K13R-070101070101",
+  :parent-code "K13R-0701010701"}
+ {:seq 112,
+  :level 4,
+  :title "Nilai Suatu Barang",
+  :code "K13R-0701010702",
+  :parent-code "K13R-07010107"}
+ {:seq 113,
+  :level 5,
+  :title "Teori Nilai Suatu Barang",
+  :code "K13R-070101070201",
+  :parent-code "K13R-0701010702"}
+ {:seq 114,
+  :level 4,
+  :title "Diskon, Pajak, Bruto, Tara, dan Netto",
+  :code "K13R-0701010703",
+  :parent-code "K13R-07010107"}
+ {:seq 115,
+  :level 5,
+  :title "Teori Diskon, Pajak, Bruto, Tara, dan Netto (2 videos)",
+  :code "K13R-070101070301",
+  :parent-code "K13R-0701010703"}
+ {:seq 116,
+  :level 4,
+  :title "Bunga Tunggal",
+  :code "K13R-0701010704",
+  :parent-code "K13R-07010107"}
+ {:seq 117,
+  :level 3,
+  :title "Transformasi",
+  :code "K13R-07010108",
+  :parent-code "K13R-070101"}
+ {:seq 118,
+  :level 4,
+  :title "Menemukan Konsep Translasi (Pergeseran)",
+  :code "K13R-0701010801",
+  :parent-code "K13R-07010108"}
+ {:seq 119,
+  :level 5,
+  :title "Teori Translasi (2 videos)",
+  :code "K13R-070101080101",
+  :parent-code "K13R-0701010801"}
+ {:seq 120,
+  :level 4,
+  :title "Menemukan Konsep Refleksi (Pencerminan)",
+  :code "K13R-0701010802",
+  :parent-code "K13R-07010108"}
+ {:seq 121,
+  :level 5,
+  :title "Refleksi Terhadap Sumbu X",
+  :code "K13R-070101080201",
+  :parent-code "K13R-0701010802"}
+ {:seq 122,
+  :level 5,
+  :title "Refleksi Terhadap Sumbu Y",
+  :code "K13R-070101080202",
+  :parent-code "K13R-0701010802"}
+ {:seq 123,
+  :level 5,
+  :title "Refleksi Terhadap Titik Pusat",
+  :code "K13R-070101080203",
+  :parent-code "K13R-0701010802"}
+ {:seq 124,
+  :level 5,
+  :title "Refleksi Terhadap Garis y = x",
+  :code "K13R-070101080204",
+  :parent-code "K13R-0701010802"}
+ {:seq 125,
+  :level 5,
+  :title "Refleksi Terhadap Garis y = -x",
+  :code "K13R-070101080205",
+  :parent-code "K13R-0701010802"}
+ {:seq 126,
+  :level 5,
+  :title "Refleksi Terhadap Garis y = h",
+  :code "K13R-070101080206",
+  :parent-code "K13R-0701010802"}
+ {:seq 127,
+  :level 5,
+  :title "Refleksi Terhadap Garis x = h",
+  :code "K13R-070101080207",
+  :parent-code "K13R-0701010802"}
+ {:seq 128,
+  :level 4,
+  :title "Memahami dan Menemukan Konsep Rotasi (Perputaran)",
+  :code "K13R-0701010803",
+  :parent-code "K13R-07010108"}
+ {:seq 129,
+  :level 5,
+  :title "Teori Rotasi (3 videos)",
+  :code "K13R-070101080301",
+  :parent-code "K13R-0701010803"}
+ {:seq 130,
+  :level 4,
+  :title "Memahami dan Menemukan Konsep Dilatasi (Perkalian)",
+  :code "K13R-0701010804",
+  :parent-code "K13R-07010108"}
+ {:seq 131,
+  :level 5,
+  :title "Teori Dilatasi",
+  :code "K13R-070101080401",
+  :parent-code "K13R-0701010804"}
+ {:seq 132,
+  :level 3,
+  :title "Statistika",
+  :code "K13R-07010109",
+  :parent-code "K13R-070101"}
+ {:seq 133,
+  :level 4,
+  :title "Konsep Data",
+  :code "K13R-0701010901",
+  :parent-code "K13R-07010109"}
+ {:seq 134,
+  :level 5,
+  :title "Konsep Data",
+  :code "K13R-070101090101",
+  :parent-code "K13R-0701010901"}
+ {:seq 135,
+  :level 4,
+  :title "Pengumpulan Data",
+  :code "K13R-0701010902",
+  :parent-code "K13R-07010109"}
+ {:seq 136,
+  :level 5,
+  :title "Teori Pengumpulan Data",
+  :code "K13R-070101090201",
+  :parent-code "K13R-0701010902"}
+ {:seq 137,
+  :level 4,
+  :title "Pengolahan Data",
+  :code "K13R-0701010903",
+  :parent-code "K13R-07010109"}
+ {:seq 138,
+  :level 5,
+  :title "Pengertian Mean",
+  :code "K13R-070101090301",
+  :parent-code "K13R-0701010903"}
+ {:seq 139,
+  :level 5,
+  :title "Pengertian Median",
+  :code "K13R-070101090302",
+  :parent-code "K13R-0701010903"}
+ {:seq 140,
+  :level 5,
+  :title "Pengertian Modus",
+  :code "K13R-070101090303",
+  :parent-code "K13R-0701010903"}
+ {:seq 141,
+  :level 4,
+  :title "Penyajian Data",
+  :code "K13R-0701010904",
+  :parent-code "K13R-07010109"}
+ {:seq 142,
+  :level 5,
+  :title "Jenis-jenis penyajian data",
+  :code "K13R-070101090401",
+  :parent-code "K13R-0701010904"}
+ {:seq 143,
+  :level 5,
+  :title "Penyajian Data dengan Tabel",
+  :code "K13R-070101090402",
+  :parent-code "K13R-0701010904"}
+ {:seq 144,
+  :level 5,
+  :title "Penyajian Data dengan Diagram Batang",
+  :code "K13R-070101090403",
+  :parent-code "K13R-0701010904"}
+ {:seq 145,
+  :level 5,
+  :title "Penyajian Data dengan Diagram Lingkaran",
+  :code "K13R-070101090404",
+  :parent-code "K13R-0701010904"}
+ {:seq 146,
+  :level 5,
+  :title "Penyajian Data dengan Grafik Garis",
+  :code "K13R-070101090405",
+  :parent-code "K13R-0701010904"}
+ {:seq 147,
+  :level 3,
+  :title "Peluang",
+  :code "K13R-07010110",
+  :parent-code "K13R-070101"}
+ {:seq 148,
+  :level 4,
+  :title "Konsep Frekuensi Relatif dan Titik Sampel",
+  :code "K13R-0701011001",
+  :parent-code "K13R-07010110"}
+ {:seq 149,
+  :level 4,
+  :title "Komplemen Kejadian",
+  :code "K13R-0701011002",
+  :parent-code "K13R-07010110"}
+ {:seq 152,
+  :level 2,
+  :title "Sains",
+  :code "K13R-070102",
+  :parent-code "K13R-0701"}
+ {:seq 153,
+  :level 3,
+  :title "Besaran dan Pengukuran",
+  :code "K13R-07010201",
+  :parent-code "K13R-070102"}
+ {:seq 154,
+  :level 4,
+  :title "Konsep Besaran",
+  :code "K13R-0701020101",
+  :parent-code "K13R-07010201"}
+ {:seq 155,
+  :level 5,
+  :title "Pengertian Besaran",
+  :code "K13R-070102010101",
+  :parent-code "K13R-0701020101"}
+ {:seq 156,
+  :level 5,
+  :title "Besaran Pokok dan Turunan",
+  :code "K13R-070102010102",
+  :parent-code "K13R-0701020101"}
+ {:seq 157,
+  :level 5,
+  :title "Satuan Internasional",
+  :code "K13R-070102010103",
+  :parent-code "K13R-0701020101"}
+ {:seq 158,
+  :level 5,
+  :title "Konversi Satuan",
+  :code "K13R-070102010104",
+  :parent-code "K13R-0701020101"}
+ {:seq 159,
+  :level 4,
+  :title "Mengukur Panjang, Massa, dan Waktu",
+  :code "K13R-0701020102",
+  :parent-code "K13R-07010201"}
+ {:seq 160,
+  :level 5,
+  :title "Mengukur",
+  :code "K13R-070102010201",
+  :parent-code "K13R-0701020102"}
+ {:seq 161,
+  :level 5,
+  :title "Standar Satuan Panjang",
+  :code "K13R-070102010202",
+  :parent-code "K13R-0701020102"}
+ {:seq 162,
+  :level 5,
+  :title "Alat Ukur Panjang",
+  :code "K13R-070102010203",
+  :parent-code "K13R-0701020102"}
+ {:seq 163,
+  :level 5,
+  :title "Massa",
+  :code "K13R-070102010204",
+  :parent-code "K13R-0701020102"}
+ {:seq 164,
+  :level 5,
+  :title "Alat Ukur Massa",
+  :code "K13R-070102010205",
+  :parent-code "K13R-0701020102"}
+ {:seq 165,
+  :level 5,
+  :title "Waktu dan Alat Ukurnya",
+  :code "K13R-070102010206",
+  :parent-code "K13R-0701020102"}
+ {:seq 166,
+  :level 4,
+  :title "Mencari Nilai Luas dan Volume",
+  :code "K13R-0701020103",
+  :parent-code "K13R-07010201"}
+ {:seq 167,
+  :level 5,
+  :title "Konsep Luas",
+  :code "K13R-070102010301",
+  :parent-code "K13R-0701020103"}
+ {:seq 168,
+  :level 5,
+  :title "Luas Bidang yang Teratur (Persegi dan Persegi Panjang)",
+  :code "K13R-070102010302",
+  :parent-code "K13R-0701020103"}
+ {:seq 169,
+  :level 5,
+  :title "Luas Bidang yang Teratur (Segitiga dan Jajar Genjang)",
+  :code "K13R-070102010303",
+  :parent-code "K13R-0701020103"}
+ {:seq 170,
+  :level 5,
+  :title "Luas Bidang yang Teratur (Trapesium)",
+  :code "K13R-070102010304",
+  :parent-code "K13R-0701020103"}
+ {:seq 171,
+  :level 5,
+  :title "Luas Bidang yang Tidak Teratur",
+  :code "K13R-070102010305",
+  :parent-code "K13R-0701020103"}
+ {:seq 172,
+  :level 5,
+  :title "Menghitung Volume",
+  :code "K13R-070102010306",
+  :parent-code "K13R-0701020103"}
+ {:seq 173,
+  :level 5,
+  :title "Volume Bangun yang Teratur (Prisma dan Limas)",
+  :code "K13R-070102010307",
+  :parent-code "K13R-0701020103"}
+ {:seq 174,
+  :level 5,
+  :title "Volume Benda yang Tidak Teratur",
+  :code "K13R-070102010308",
+  :parent-code "K13R-0701020103"}
+ {:seq 175,
+  :level 3,
+  :title "Ciri Makhluk Hidup",
+  :code "K13R-07010202",
+  :parent-code "K13R-070102"}
+ {:seq 176,
+  :level 4,
+  :title "Ciri-ciri Benda dan Makhluk Hidup",
+  :code "K13R-0701020201",
+  :parent-code "K13R-07010202"}
+ {:seq 177,
+  :level 5,
+  :title "Ciri-ciri Benda",
+  :code "K13R-070102020101",
+  :parent-code "K13R-0701020201"}
+ {:seq 178,
+  :level 5,
+  :title "Ciri-ciri Makhluk Hidup",
+  :code "K13R-070102020102",
+  :parent-code "K13R-0701020201"}
+ {:seq 179,
+  :level 3,
+  :title "Klasifikasi Makhluk Hidup",
+  :code "K13R-07010203",
+  :parent-code "K13R-070102"}
+ {:seq 180,
+  :level 4,
+  :title "Klasifikasi Makhluk Hidup",
+  :code "K13R-0701020301",
+  :parent-code "K13R-07010203"}
+ {:seq 181,
+  :level 5,
+  :title "Klasifikasi",
+  :code "K13R-070102030101",
+  :parent-code "K13R-0701020301"}
+ {:seq 182,
+  :level 5,
+  :title "Nama Latin",
+  :code "K13R-070102030102",
+  :parent-code "K13R-0701020301"}
+ {:seq 183,
+  :level 5,
+  :title "Monera",
+  :code "K13R-070102030103",
+  :parent-code "K13R-0701020301"}
+ {:seq 184,
+  :level 5,
+  :title "Protista",
+  :code "K13R-070102030104",
+  :parent-code "K13R-0701020301"}
+ {:seq 185,
+  :level 5,
+  :title "Fungi",
+  :code "K13R-070102030105",
+  :parent-code "K13R-0701020301"}
+ {:seq 186,
+  :level 5,
+  :title "Plantae",
+  :code "K13R-070102030106",
+  :parent-code "K13R-0701020301"}
+ {:seq 187,
+  :level 5,
+  :title "Animalia (Avertebrata)",
+  :code "K13R-070102030107",
+  :parent-code "K13R-0701020301"}
+ {:seq 188,
+  :level 5,
+  :title "Animalia (Vertebrata)",
+  :code "K13R-070102030108",
+  :parent-code "K13R-0701020301"}
+ {:seq 189,
+  :level 3,
+  :title "Sistem Organisasi Kehidupan",
+  :code "K13R-07010204",
+  :parent-code "K13R-070102"}
+ {:seq 190,
+  :level 4,
+  :title "Sistem Organisasi Kehidupan",
+  :code "K13R-0701020401",
+  :parent-code "K13R-07010204"}
+ {:seq 191,
+  :level 5,
+  :title "Hierarki Kehidupan",
+  :code "K13R-070102040101",
+  :parent-code "K13R-0701020401"}
+ {:seq 192,
+  :level 5,
+  :title "Perbandingan Sel",
+  :code "K13R-070102040102",
+  :parent-code "K13R-0701020401"}
+ {:seq 193,
+  :level 5,
+  :title "Sel dan Organel",
+  :code "K13R-070102040103",
+  :parent-code "K13R-0701020401"}
+ {:seq 194,
+  :level 3,
+  :title "Karakteristik Zat",
+  :code "K13R-07010205",
+  :parent-code "K13R-070102"}
+ {:seq 195,
+  :level 4,
+  :title "Tiga Wujud Zat",
+  :code "K13R-0701020501",
+  :parent-code "K13R-07010205"}
+ {:seq 196,
+  :level 5,
+  :title "Pengertian Zat",
+  :code "K13R-070102050101",
+  :parent-code "K13R-0701020501"}
+ {:seq 197,
+  :level 5,
+  :title "Tiga Wujud Zat dan Sifat-sifatnya",
+  :code "K13R-070102050102",
+  :parent-code "K13R-0701020501"}
+ {:seq 198,
+  :level 5,
+  :title "Sifat-sifat Molekul dari Zat",
+  :code "K13R-070102050103",
+  :parent-code "K13R-0701020501"}
+ {:seq 199,
+  :level 5,
+  :title "Perubahan Wujud Zat",
+  :code "K13R-070102050104",
+  :parent-code "K13R-0701020501"}
+ {:seq 200,
+  :level 5,
+  :title "Nama-nama Perubahan Wujud Zat",
+  :code "K13R-070102050105",
+  :parent-code "K13R-0701020501"}
+ {:seq 201,
+  :level 4,
+  :title "Massa Jenis",
+  :code "K13R-0701020502",
+  :parent-code "K13R-07010205"}
+ {:seq 202,
+  :level 5,
+  :title "Pengertian Massa Jenis",
+  :code "K13R-070102050201",
+  :parent-code "K13R-0701020502"}
+ {:seq 203,
+  :level 5,
+  :title "Rumus Massa Jenis",
+  :code "K13R-070102050202",
+  :parent-code "K13R-0701020502"}
+ {:seq 204,
+  :level 5,
+  :title "Konversi Satuan Massa Jenis",
+  :code "K13R-070102050203",
+  :parent-code "K13R-0701020502"}
+ {:seq 205,
+  :level 5,
+  :title "Massa Jenis Beberapa Zat",
+  :code "K13R-070102050204",
+  :parent-code "K13R-0701020502"}
+ {:seq 206,
+  :level 5,
+  :title "Menentukan Massa Jenis dari Percobaan",
+  :code "K13R-070102050205",
+  :parent-code "K13R-0701020502"}
+ {:seq 207,
+  :level 3,
+  :title "Energi dalam Sistem Kehidupan",
+  :code "K13R-07010206",
+  :parent-code "K13R-070102"}
+ {:seq 208,
+  :level 4,
+  :title "Konsep Energi",
+  :code "K13R-0701020601",
+  :parent-code "K13R-07010206"}
+ {:seq 209,
+  :level 5,
+  :title "Energi",
+  :code "K13R-070102060101",
+  :parent-code "K13R-0701020601"}
+ {:seq 210,
+  :level 5,
+  :title "Energi Kinetik",
+  :code "K13R-070102060102",
+  :parent-code "K13R-0701020601"}
+ {:seq 211,
+  :level 5,
+  :title "Energi Potensial",
+  :code "K13R-070102060103",
+  :parent-code "K13R-0701020601"}
+ {:seq 212,
+  :level 5,
+  :title "Hukum Kekekalan Energi",
+  :code "K13R-070102060104",
+  :parent-code "K13R-0701020601"}
+ {:seq 213,
+  :level 5,
+  :title "Usaha",
+  :code "K13R-070102060105",
+  :parent-code "K13R-0701020601"}
+ {:seq 214,
+  :level 5,
+  :title "Usaha Negatif",
+  :code "K13R-070102060106",
+  :parent-code "K13R-0701020601"}
+ {:seq 215,
+  :level 5,
+  :title "Hubungan Usaha dan Energi",
+  :code "K13R-070102060107",
+  :parent-code "K13R-0701020601"}
+ {:seq 216,
+  :level 5,
+  :title "Daya",
+  :code "K13R-070102060108",
+  :parent-code "K13R-0701020601"}
+ {:seq 217,
+  :level 4,
+  :title "Berbagai Sumber Energi",
+  :code "K13R-0701020602",
+  :parent-code "K13R-07010206"}
+ {:seq 218,
+  :level 5,
+  :title "Sumber Energi Dunia",
+  :code "K13R-070102060201",
+  :parent-code "K13R-0701020602"}
+ {:seq 219,
+  :level 5,
+  :title "Minyak, Batubara, dan Gas Bumi",
+  :code "K13R-070102060202",
+  :parent-code "K13R-0701020602"}
+ {:seq 220,
+  :level 5,
+  :title "Sumber Energi Tak Terbaharukan",
+  :code "K13R-070102060203",
+  :parent-code "K13R-0701020602"}
+ {:seq 221,
+  :level 5,
+  :title "Sumber Energi Terbaharukan",
+  :code "K13R-070102060204",
+  :parent-code "K13R-0701020602"}
+ {:seq 222,
+  :level 5,
+  :title "Nuklir",
+  :code "K13R-070102060205",
+  :parent-code "K13R-0701020602"}
+ {:seq 223,
+  :level 5,
+  :title "Permasalahan Dunia",
+  :code "K13R-070102060206",
+  :parent-code "K13R-0701020602"}
+ {:seq 224,
+  :level 5,
+  :title "Matahari Sebagai Sumber Energi Utama",
+  :code "K13R-070102060207",
+  :parent-code "K13R-0701020602"}
+ {:seq 225,
+  :level 4,
+  :title "Fotosintesis",
+  :code "K13R-0701020603",
+  :parent-code "K13R-07010206"}
+ {:seq 226,
+  :level 5,
+  :title "Konsep Fotosintesis - reaksi gelap dan terang",
+  :code "K13R-070102060301",
+  :parent-code "K13R-0701020603"}
+ {:seq 227,
+  :level 5,
+  :title
+  "Pengambilan Zat oleh Tumbuhan - Difusi, Osmosis, Transport Aktif",
+  :code "K13R-070102060302",
+  :parent-code "K13R-0701020603"}
+ {:seq 228,
+  :level 4,
+  :title "Makanan Sebagai Sumber Energi",
+  :code "K13R-0701020604",
+  :parent-code "K13R-07010206"}
+ {:seq 229,
+  :level 5,
+  :title "Nutrisi",
+  :code "K13R-070102060401",
+  :parent-code "K13R-0701020604"}
+ {:seq 230,
+  :level 4,
+  :title "Sistem Pencernaan pada Manusia",
+  :code "K13R-0701020605",
+  :parent-code "K13R-07010206"}
+ {:seq 231,
+  :level 5,
+  :title
+  "Konsep Sistem Pencernaan (Kimiawi + Mekanik, Perubahan Makromolekul ke Mikromolekul)",
+  :code "K13R-070102060501",
+  :parent-code "K13R-0701020605"}
+ {:seq 232,
+  :level 5,
+  :title "Saluran Pencernaan",
+  :code "K13R-070102060502",
+  :parent-code "K13R-0701020605"}
+ {:seq 233,
+  :level 5,
+  :title "Struktur dan Susunan Gigi",
+  :code "K13R-070102060503",
+  :parent-code "K13R-0701020605"}
+ {:seq 234,
+  :level 3,
+  :title "Suhu, Pemuaian, dan Kalor",
+  :code "K13R-07010207",
+  :parent-code "K13R-070102"}
+ {:seq 235,
+  :level 4,
+  :title "Suhu",
+  :code "K13R-0701020701",
+  :parent-code "K13R-07010207"}
+ {:seq 236,
+  :level 5,
+  :title "Pengertian Suhu",
+  :code "K13R-070102070101",
+  :parent-code "K13R-0701020701"}
+ {:seq 237,
+  :level 5,
+  :title "Mengukur Suhu Menggunakan Tangan",
+  :code "K13R-070102070102",
+  :parent-code "K13R-0701020701"}
+ {:seq 238,
+  :level 5,
+  :title "Termometer",
+  :code "K13R-070102070103",
+  :parent-code "K13R-0701020701"}
+ {:seq 239,
+  :level 5,
+  :title "Termometer Celcius, Reamur, dan Fahrenheit",
+  :code "K13R-070102070104",
+  :parent-code "K13R-0701020701"}
+ {:seq 240,
+  :level 5,
+  :title "Rumus Konversi Suhu Celcius, Reamur, dan Fahrenheit",
+  :code "K13R-070102070105",
+  :parent-code "K13R-0701020701"}
+ {:seq 241,
+  :level 5,
+  :title "Kelvin - Satuan Internasional Suhu",
+  :code "K13R-070102070106",
+  :parent-code "K13R-0701020701"}
+ {:seq 242,
+  :level 5,
+  :title "Termometer Air Raksa VS Alkohol",
+  :code "K13R-070102070107",
+  :parent-code "K13R-0701020701"}
+ {:seq 243,
+  :level 4,
+  :title "Pemuaian",
+  :code "K13R-0701020702",
+  :parent-code "K13R-07010207"}
+ {:seq 244,
+  :level 5,
+  :title "Pengertian Pemuaian",
+  :code "K13R-070102070201",
+  :parent-code "K13R-0701020702"}
+ {:seq 245,
+  :level 4,
+  :title "Kalor",
+  :code "K13R-0701020703",
+  :parent-code "K13R-07010207"}
+ {:seq 246,
+  :level 5,
+  :title "Pengertian Kalor",
+  :code "K13R-070102070301",
+  :parent-code "K13R-0701020703"}
+ {:seq 247,
+  :level 5,
+  :title "Kalor dan Massa",
+  :code "K13R-070102070302",
+  :parent-code "K13R-0701020703"}
+ {:seq 248,
+  :level 5,
+  :title "Kalor Jenis",
+  :code "K13R-070102070303",
+  :parent-code "K13R-0701020703"}
+ {:seq 249,
+  :level 5,
+  :title "Perubahan Kalor Akibat Perubahan Suhu",
+  :code "K13R-070102070304",
+  :parent-code "K13R-0701020703"}
+ {:seq 250,
+  :level 5,
+  :title "Pemuaian dan Peleburan",
+  :code "K13R-070102070305",
+  :parent-code "K13R-0701020703"}
+ {:seq 251,
+  :level 5,
+  :title "Perubahan Wujud dan Peran Kalor",
+  :code "K13R-070102070306",
+  :parent-code "K13R-0701020703"}
+ {:seq 252,
+  :level 5,
+  :title "Perpindahan Kalor",
+  :code "K13R-070102070307",
+  :parent-code "K13R-0701020703"}
+ {:seq 253,
+  :level 3,
+  :title "Interaksi Makhluk Hidup dengan Lingkungan",
+  :code "K13R-07010208",
+  :parent-code "K13R-070102"}
+ {:seq 254,
+  :level 4,
+  :title "Ekosistem",
+  :code "K13R-0701020801",
+  :parent-code "K13R-07010208"}
+ {:seq 255,
+  :level 5,
+  :title "Ekosistem",
+  :code "K13R-070102080101",
+  :parent-code "K13R-0701020801"}
+ {:seq 256,
+  :level 5,
+  :title "Rantai Makanan",
+  :code "K13R-070102080102",
+  :parent-code "K13R-0701020801"}
+ {:seq 257,
+  :level 5,
+  :title "Simbiosis",
+  :code "K13R-070102080103",
+  :parent-code "K13R-0701020801"}
+ {:seq 258,
+  :level 3,
+  :title "Pencemaran Lingkungan",
+  :code "K13R-07010209",
+  :parent-code "K13R-070102"}
+ {:seq 259,
+  :level 4,
+  :title "Pengaruh Manusia Terhadap Lingkungannya",
+  :code "K13R-0701020901",
+  :parent-code "K13R-07010209"}
+ {:seq 260,
+  :level 5,
+  :title "Deforestation dan Pencemaran",
+  :code "K13R-070102090101",
+  :parent-code "K13R-0701020901"}
+ {:seq 261,
+  :level 5,
+  :title "Kepadatan Penduduk",
+  :code "K13R-070102090102",
+  :parent-code "K13R-0701020901"}
+ {:seq 264,
+  :level 2,
+  :title "Bahasa Inggris",
+  :code "K13R-070103",
+  :parent-code "K13R-0701"}
+ {:seq 265,
+  :level 3,
+  :title "Chapter 1",
+  :code "K13R-07010301",
+  :parent-code "K13R-070103"}
+ {:seq 266,
+  :level 4,
+  :title "Chapter 1 Teori",
+  :code "K13R-0701030101",
+  :parent-code "K13R-07010301"}
+ {:seq 267,
+  :level 5,
+  :title "Greetings",
+  :code "K13R-070103010101",
+  :parent-code "K13R-0701030101"}
+ {:seq 268,
+  :level 5,
+  :title "Grammar To Be",
+  :code "K13R-070103010102",
+  :parent-code "K13R-0701030101"}
+ {:seq 269,
+  :level 3,
+  :title "Chapter 2",
+  :code "K13R-07010302",
+  :parent-code "K13R-070103"}
+ {:seq 270,
+  :level 4,
+  :title "Chapter 2 Teori",
+  :code "K13R-0701030201",
+  :parent-code "K13R-07010302"}
+ {:seq 271,
+  :level 5,
+  :title "Expressing Gratitude",
+  :code "K13R-070103020101",
+  :parent-code "K13R-0701030201"}
+ {:seq 272,
+  :level 5,
+  :title "Expressing Apology",
+  :code "K13R-070103020102",
+  :parent-code "K13R-0701030201"}
+ {:seq 273,
+  :level 5,
+  :title "Asking Information",
+  :code "K13R-070103020103",
+  :parent-code "K13R-0701030201"}
+ {:seq 274,
+  :level 5,
+  :title "Desciptive Texts",
+  :code "K13R-070103020104",
+  :parent-code "K13R-0701030201"}
+ {:seq 275,
+  :level 5,
+  :title "There is There are",
+  :code "K13R-070103020105",
+  :parent-code "K13R-0701030201"}
+ {:seq 276,
+  :level 5,
+  :title "Preposition Place",
+  :code "K13R-070103020106",
+  :parent-code "K13R-0701030201"}
+ {:seq 277,
+  :level 3,
+  :title "Chapter 3",
+  :code "K13R-07010303",
+  :parent-code "K13R-070103"}
+ {:seq 278,
+  :level 4,
+  :title "Chapter 3 Teori",
+  :code "K13R-0701030301",
+  :parent-code "K13R-07010303"}
+ {:seq 279,
+  :level 5,
+  :title "Expressing Command",
+  :code "K13R-070103030101",
+  :parent-code "K13R-0701030301"}
+ {:seq 280,
+  :level 5,
+  :title "Expressing Prohibition",
+  :code "K13R-070103030102",
+  :parent-code "K13R-0701030301"}
+ {:seq 281,
+  :level 5,
+  :title "Preview Tenses",
+  :code "K13R-070103030103",
+  :parent-code "K13R-0701030301"}
+ {:seq 282,
+  :level 5,
+  :title "Present Simple",
+  :code "K13R-070103030104",
+  :parent-code "K13R-0701030301"}
+ {:seq 283,
+  :level 5,
+  :title "Present Continuous",
+  :code "K13R-070103030105",
+  :parent-code "K13R-0701030301"}
+ {:seq 284,
+  :level 3,
+  :title "Chapter 4",
+  :code "K13R-07010304",
+  :parent-code "K13R-070103"}
+ {:seq 285,
+  :level 4,
+  :title "Chapter 4 Teori",
+  :code "K13R-0701030401",
+  :parent-code "K13R-07010304"}
+ {:seq 286,
+  :level 5,
+  :title "Expression Excuse Me",
+  :code "K13R-070103040101",
+  :parent-code "K13R-0701030401"}
+ {:seq 287,
+  :level 5,
+  :title "Expression Pardon",
+  :code "K13R-070103040102",
+  :parent-code "K13R-0701030401"}
+ {:seq 288,
+  :level 5,
+  :title "Expression Please",
+  :code "K13R-070103040103",
+  :parent-code "K13R-0701030401"}
+ {:seq 289,
+  :level 5,
+  :title "Advertisement",
+  :code "K13R-070103040104",
+  :parent-code "K13R-0701030401"}
+ {:seq 290,
+  :level 3,
+  :title "Chapter 5",
+  :code "K13R-07010305",
+  :parent-code "K13R-070103"}
+ {:seq 291,
+  :level 4,
+  :title "Chapter 5 Teori",
+  :code "K13R-0701030501",
+  :parent-code "K13R-07010305"}
+ {:seq 292,
+  :level 5,
+  :title "Expression Likes and Dislikes",
+  :code "K13R-070103050101",
+  :parent-code "K13R-0701030501"}
+ {:seq 293,
+  :level 5,
+  :title "Expressing Opinion",
+  :code "K13R-070103050102",
+  :parent-code "K13R-0701030501"}
+ {:seq 294,
+  :level 5,
+  :title "Using Whose",
+  :code "K13R-070103050103",
+  :parent-code "K13R-0701030501"}
+ {:seq 295,
+  :level 5,
+  :title "Family Members",
+  :code "K13R-070103050104",
+  :parent-code "K13R-0701030501"}
+ {:seq 296,
+  :level 3,
+  :title "Chapter 6",
+  :code "K13R-07010306",
+  :parent-code "K13R-070103"}
+ {:seq 297,
+  :level 4,
+  :title "Chapter 6 Teori",
+  :code "K13R-0701030601",
+  :parent-code "K13R-07010306"}
+ {:seq 298,
+  :level 5,
+  :title "Asking Something",
+  :code "K13R-070103060101",
+  :parent-code "K13R-0701030601"}
+ {:seq 299,
+  :level 5,
+  :title "Giving Something",
+  :code "K13R-070103060102",
+  :parent-code "K13R-0701030601"}
+ {:seq 300,
+  :level 5,
+  :title "Describing People",
+  :code "K13R-070103060103",
+  :parent-code "K13R-0701030601"}
+ {:seq 301,
+  :level 3,
+  :title "Chapter 7",
+  :code "K13R-07010307",
+  :parent-code "K13R-070103"}
+ {:seq 302,
+  :level 4,
+  :title "Chapter 7 Teori",
+  :code "K13R-0701030701",
+  :parent-code "K13R-07010307"}
+ {:seq 303,
+  :level 5,
+  :title "Giving Facts",
+  :code "K13R-070103070101",
+  :parent-code "K13R-0701030701"}
+ {:seq 304,
+  :level 5,
+  :title "Asking for Facts",
+  :code "K13R-070103070102",
+  :parent-code "K13R-0701030701"}
+ {:seq 305,
+  :level 5,
+  :title "Procedural Text",
+  :code "K13R-070103070103",
+  :parent-code "K13R-0701030701"}
+ {:seq 306,
+  :level 5,
+  :title "Adverbs",
+  :code "K13R-070103070104",
+  :parent-code "K13R-0701030701"}
+ {:seq 307,
+  :level 5,
+  :title "Adverbs for Place",
+  :code "K13R-070103070105",
+  :parent-code "K13R-0701030701"}
+ {:seq 308,
+  :level 5,
+  :title "Adverbs for Time",
+  :code "K13R-070103070106",
+  :parent-code "K13R-0701030701"}
+ {:seq 309,
+  :level 5,
+  :title "Adverbs for Frequency",
+  :code "K13R-070103070107",
+  :parent-code "K13R-0701030701"}
+ {:seq 310,
+  :level 5,
+  :title "Adverbs of Degree",
+  :code "K13R-070103070108",
+  :parent-code "K13R-0701030701"}
+ {:seq 311,
+  :level 5,
+  :title "Adverbs of Manner",
+  :code "K13R-070103070109",
+  :parent-code "K13R-0701030701"}
+ {:seq 312,
+  :level 3,
+  :title "Chapter 8",
+  :code "K13R-07010308",
+  :parent-code "K13R-070103"}
+ {:seq 313,
+  :level 4,
+  :title "Chapter 8 Teori",
+  :code "K13R-0701030801",
+  :parent-code "K13R-07010308"}
+ {:seq 314,
+  :level 5,
+  :title "Asking Clarification",
+  :code "K13R-070103080101",
+  :parent-code "K13R-0701030801"}
+ {:seq 315,
+  :level 5,
+  :title "Clarifying your Idea",
+  :code "K13R-070103080102",
+  :parent-code "K13R-0701030801"}
+ {:seq 316,
+  :level 5,
+  :title "Procedural Text",
+  :code "K13R-070103080103",
+  :parent-code "K13R-0701030801"}
+ {:seq 317,
+  :level 5,
+  :title "Simple Present",
+  :code "K13R-070103080104",
+  :parent-code "K13R-0701030801"}
+ {:seq 320,
+  :level 2,
+  :title "Bahasa Indonesia",
+  :code "K13R-070104",
+  :parent-code "K13R-0701"}
+ {:seq 321,
+  :level 3,
+  :title "Menceritakan Pengalaman",
+  :code "K13R-07010401",
+  :parent-code "K13R-070104"}
+ {:seq 322,
+  :level 4,
+  :title "Menceritakan Pengalaman",
+  :code "K13R-0701040101",
+  :parent-code "K13R-07010401"}
+ {:seq 323,
+  :level 5,
+  :title "Tujuan, Struktur, dan Ciri Kebahasaan Cerita Pengalaman",
+  :code "K13R-070104010101",
+  :parent-code "K13R-0701040101"}
+ {:seq 324,
+  :level 3,
+  :title "Menulis Buku Harian",
+  :code "K13R-07010402",
+  :parent-code "K13R-070104"}
+ {:seq 325,
+  :level 4,
+  :title "Menulis Buku Harian",
+  :code "K13R-0701040201",
+  :parent-code "K13R-07010402"}
+ {:seq 326,
+  :level 5,
+  :title "Menulis Buku Harian",
+  :code "K13R-070104020101",
+  :parent-code "K13R-0701040201"}
+ {:seq 327,
+  :level 3,
+  :title "Berita",
+  :code "K13R-07010403",
+  :parent-code "K13R-070104"}
+ {:seq 328,
+  :level 4,
+  :title "Berita",
+  :code "K13R-0701040301",
+  :parent-code "K13R-07010403"}
+ {:seq 329,
+  :level 5,
+  :title "Pengertian dan Jenis Berita",
+  :code "K13R-070104030101",
+  :parent-code "K13R-0701040301"}
+ {:seq 330,
+  :level 5,
+  :title "Memahami Berita",
+  :code "K13R-070104030102",
+  :parent-code "K13R-0701040301"}
+ {:seq 331,
+  :level 3,
+  :title "Laporan Perjalanan",
+  :code "K13R-07010404",
+  :parent-code "K13R-070104"}
+ {:seq 332,
+  :level 4,
+  :title "Laporan Perjalanan",
+  :code "K13R-0701040401",
+  :parent-code "K13R-07010404"}
+ {:seq 333,
+  :level 5,
+  :title "Tujuan dan Kerangka Laporan Perjalanan",
+  :code "K13R-070104040101",
+  :parent-code "K13R-0701040401"}
+ {:seq 334,
+  :level 3,
+  :title "Menulis Karya Ilmiah",
+  :code "K13R-07010405",
+  :parent-code "K13R-070104"}
+ {:seq 335,
+  :level 4,
+  :title "Menulis Karya Ilmiah",
+  :code "K13R-0701040501",
+  :parent-code "K13R-07010405"}
+ {:seq 336,
+  :level 5,
+  :title "Unsur Karya Ilmiah",
+  :code "K13R-070104050101",
+  :parent-code "K13R-0701040501"}
+ {:seq 337,
+  :level 3,
+  :title "Resensi Buku",
+  :code "K13R-07010406",
+  :parent-code "K13R-070104"}
+ {:seq 338,
+  :level 4,
+  :title "Resensi Buku",
+  :code "K13R-0701040601",
+  :parent-code "K13R-07010406"}
+ {:seq 339,
+  :level 5,
+  :title "Tujuan dan Struktur Resensi Buku",
+  :code "K13R-070104060101",
+  :parent-code "K13R-0701040601"}
+ {:seq 340,
+  :level 3,
+  :title "Fakta dan Opini",
+  :code "K13R-07010407",
+  :parent-code "K13R-070104"}
+ {:seq 341,
+  :level 4,
+  :title "Fakta dan Opini",
+  :code "K13R-0701040701",
+  :parent-code "K13R-07010407"}
+ {:seq 342,
+  :level 5,
+  :title "Fakta dan Opini",
+  :code "K13R-070104070101",
+  :parent-code "K13R-0701040701"}
+ {:seq 343,
+  :level 3,
+  :title "Paragraf Deskripsi",
+  :code "K13R-07010408",
+  :parent-code "K13R-070104"}
+ {:seq 344,
+  :level 4,
+  :title "Paragraf Deskripsi",
+  :code "K13R-0701040801",
+  :parent-code "K13R-07010408"}
+ {:seq 345,
+  :level 5,
+  :title "Pengertian dan Cara Mendeskripsikan Sesuatu",
+  :code "K13R-070104080101",
+  :parent-code "K13R-0701040801"}
+ {:seq 346,
+  :level 3,
+  :title "Kritik",
+  :code "K13R-07010409",
+  :parent-code "K13R-070104"}
+ {:seq 347,
+  :level 4,
+  :title "Kritik",
+  :code "K13R-0701040901",
+  :parent-code "K13R-07010409"}
+ {:seq 348,
+  :level 5,
+  :title "Pengertian, Tujuan, dan Cara Memberikan Kritik",
+  :code "K13R-070104090101",
+  :parent-code "K13R-0701040901"}
+ {:seq 349,
+  :level 3,
+  :title "Pidato",
+  :code "K13R-07010410",
+  :parent-code "K13R-070104"}
+ {:seq 350,
+  :level 4,
+  :title "Pidato",
+  :code "K13R-0701041001",
+  :parent-code "K13R-07010410"}
+ {:seq 351,
+  :level 5,
+  :title "Pengertian dan Bagian Pidato",
+  :code "K13R-070104100101",
+  :parent-code "K13R-0701041001"}
+ {:seq 352,
+  :level 3,
+  :title "Tajuk Rencana",
+  :code "K13R-07010411",
+  :parent-code "K13R-070104"}
+ {:seq 353,
+  :level 4,
+  :title "Tajuk Rencana",
+  :code "K13R-0701041101",
+  :parent-code "K13R-07010411"}
+ {:seq 354,
+  :level 5,
+  :title "Pengertian, Jenis, dan Karakteristik Tajuk Rencana",
+  :code "K13R-070104110101",
+  :parent-code "K13R-0701041101"}]

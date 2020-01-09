@@ -1,0 +1,285 @@
+[{:seq 1,
+  :level 1,
+  :title "Kelas 1",
+  :code "K13R-0101",
+  :parent-code "K13R-01"}
+ {:seq 2,
+  :level 2,
+  :title "Matematika",
+  :code "K13R-010101",
+  :parent-code "K13R-0101"}
+ {:seq 3,
+  :level 3,
+  :title "Bilangan Cacah 0 sampai 20",
+  :code "K13R-01010101",
+  :parent-code "K13R-010101"}
+ {:seq 4,
+  :level 4,
+  :title "Bilangan Cacah 0 sampai 20",
+  :code "K13R-0101010101",
+  :parent-code "K13R-01010101"}
+ {:seq 5,
+  :level 5,
+  :title "Perkenalan",
+  :code "K13R-010101010101",
+  :parent-code "K13R-0101010101"}
+ {:seq 6,
+  :level 5,
+  :title "Berhitung",
+  :code "K13R-010101010102",
+  :parent-code "K13R-0101010101"}
+ {:seq 7,
+  :level 5,
+  :title "Lebih Dari",
+  :code "K13R-010101010103",
+  :parent-code "K13R-0101010101"}
+ {:seq 8,
+  :level 5,
+  :title "Kurang Dari",
+  :code "K13R-010101010104",
+  :parent-code "K13R-0101010101"}
+ {:seq 9,
+  :level 5,
+  :title "Sama Banyak",
+  :code "K13R-010101010105",
+  :parent-code "K13R-0101010101"}
+ {:seq 10,
+  :level 5,
+  :title "Mengurutkan Pecahan",
+  :code "K13R-010101010106",
+  :parent-code "K13R-0101010101"}
+ {:seq 11,
+  :level 5,
+  :title "Angka 1-5",
+  :code "K13R-010101010107",
+  :parent-code "K13R-0101010101"}
+ {:seq 12,
+  :level 5,
+  :title "Angka 6-10",
+  :code "K13R-010101010108",
+  :parent-code "K13R-0101010101"}
+ {:seq 13,
+  :level 5,
+  :title "Angka 11-20",
+  :code "K13R-010101010109",
+  :parent-code "K13R-0101010101"}
+ {:seq 14,
+  :level 5,
+  :title "Mengurutkan Bilangan",
+  :code "K13R-010101010110",
+  :parent-code "K13R-0101010101"}
+ {:seq 15,
+  :level 5,
+  :title "Bilangan Loncat",
+  :code "K13R-010101010111",
+  :parent-code "K13R-0101010101"}
+ {:seq 16,
+  :level 3,
+  :title "Penjumlahan Pengurangan Bilangan sampai 20",
+  :code "K13R-01010102",
+  :parent-code "K13R-010101"}
+ {:seq 17,
+  :level 4,
+  :title "Penjumlahan Pengurangan Bilangan sampai 20",
+  :code "K13R-0101010201",
+  :parent-code "K13R-01010102"}
+ {:seq 18,
+  :level 5,
+  :title "Perkenalan",
+  :code "K13R-010101020101",
+  :parent-code "K13R-0101010201"}
+ {:seq 19,
+  :level 5,
+  :title "Konsep Penjumlahan dan Pengurangan",
+  :code "K13R-010101020102",
+  :parent-code "K13R-0101010201"}
+ {:seq 20,
+  :level 3,
+  :title "Pengenalan Satuan Waktu dan Panjang",
+  :code "K13R-01010103",
+  :parent-code "K13R-010101"}
+ {:seq 21,
+  :level 4,
+  :title "Pengenalan Satuan Waktu dan Panjang",
+  :code "K13R-0101010301",
+  :parent-code "K13R-01010103"}
+ {:seq 22,
+  :level 5,
+  :title "Perkenalan",
+  :code "K13R-010101030101",
+  :parent-code "K13R-0101010301"}
+ {:seq 23,
+  :level 5,
+  :title "waktu",
+  :code "K13R-010101030102",
+  :parent-code "K13R-0101010301"}
+ {:seq 24,
+  :level 5,
+  :title "nama-nama hari",
+  :code "K13R-010101030103",
+  :parent-code "K13R-0101010301"}
+ {:seq 25,
+  :level 5,
+  :title "jam",
+  :code "K13R-010101030104",
+  :parent-code "K13R-0101010301"}
+ {:seq 26,
+  :level 5,
+  :title "membaca waktu",
+  :code "K13R-010101030105",
+  :parent-code "K13R-0101010301"}
+ {:seq 27,
+  :level 5,
+  :title "kejadian lama dan sebentar",
+  :code "K13R-010101030106",
+  :parent-code "K13R-0101010301"}
+ {:seq 28,
+  :level 3,
+  :title "Bangun Ruang",
+  :code "K13R-01010104",
+  :parent-code "K13R-010101"}
+ {:seq 29,
+  :level 4,
+  :title "Bangun Ruang",
+  :code "K13R-0101010401",
+  :parent-code "K13R-01010104"}
+ {:seq 30,
+  :level 5,
+  :title "Perkenalan",
+  :code "K13R-010101040101",
+  :parent-code "K13R-0101010401"}
+ {:seq 31,
+  :level 5,
+  :title "pengertian bangun ruang kubus",
+  :code "K13R-010101040102",
+  :parent-code "K13R-0101010401"}
+ {:seq 32,
+  :level 5,
+  :title "pengertian bangun ruang balok",
+  :code "K13R-010101040103",
+  :parent-code "K13R-0101010401"}
+ {:seq 33,
+  :level 5,
+  :title "pengertian bangun ruang tabung",
+  :code "K13R-010101040104",
+  :parent-code "K13R-0101010401"}
+ {:seq 34,
+  :level 5,
+  :title "pengertian bangun ruang kerucut",
+  :code "K13R-010101040105",
+  :parent-code "K13R-0101010401"}
+ {:seq 35,
+  :level 5,
+  :title "pengertian bangun ruang bola",
+  :code "K13R-010101040106",
+  :parent-code "K13R-0101010401"}
+ {:seq 36,
+  :level 5,
+  :title "pengertian bangun ruang prisma",
+  :code "K13R-010101040107",
+  :parent-code "K13R-0101010401"}
+ {:seq 37,
+  :level 3,
+  :title "Nilai Tempat dan Penggunaannya",
+  :code "K13R-01010105",
+  :parent-code "K13R-010101"}
+ {:seq 38,
+  :level 4,
+  :title "Nilai Tempat dan Penggunaannya ",
+  :code "K13R-0101010501",
+  :parent-code "K13R-01010105"}
+ {:seq 39,
+  :level 5,
+  :title "perkenalan",
+  :code "K13R-010101050101",
+  :parent-code "K13R-0101010501"}
+ {:seq 40,
+  :level 5,
+  :title "bilangan cacah 21-40",
+  :code "K13R-010101050102",
+  :parent-code "K13R-0101010501"}
+ {:seq 41,
+  :level 5,
+  :title "bilangan cacah 41-60",
+  :code "K13R-010101050103",
+  :parent-code "K13R-0101010501"}
+ {:seq 42,
+  :level 5,
+  :title "bilangan cacah 61-80",
+  :code "K13R-010101050104",
+  :parent-code "K13R-0101010501"}
+ {:seq 43,
+  :level 5,
+  :title "bilangan cacah 81-100",
+  :code "K13R-010101050105",
+  :parent-code "K13R-0101010501"}
+ {:seq 44,
+  :level 5,
+  :title "pengenalan nilai tempat puluhan dan satuan",
+  :code "K13R-010101050106",
+  :parent-code "K13R-0101010501"}
+ {:seq 45,
+  :level 5,
+  :title "penjumlahan dengan cara mendatar",
+  :code "K13R-010101050107",
+  :parent-code "K13R-0101010501"}
+ {:seq 46,
+  :level 5,
+  :title "penjumlahan dengan cara bersusun panjang",
+  :code "K13R-010101050108",
+  :parent-code "K13R-0101010501"}
+ {:seq 47,
+  :level 5,
+  :title "penjumlahan dengan cara bersusun pendek",
+  :code "K13R-010101050109",
+  :parent-code "K13R-0101010501"}
+ {:seq 48,
+  :level 5,
+  :title "sifat pertukaran",
+  :code "K13R-010101050110",
+  :parent-code "K13R-0101010501"}
+ {:seq 49,
+  :level 5,
+  :title "sifat pengelompokkan",
+  :code "K13R-010101050111",
+  :parent-code "K13R-0101010501"}
+ {:seq 50,
+  :level 3,
+  :title "Satuan Berat",
+  :code "K13R-01010106",
+  :parent-code "K13R-010101"}
+ {:seq 51,
+  :level 4,
+  :title "Satuan Berat",
+  :code "K13R-0101010601",
+  :parent-code "K13R-01010106"}
+ {:seq 52,
+  :level 5,
+  :title "pengertian berat benda",
+  :code "K13R-010101060101",
+  :parent-code "K13R-0101010601"}
+ {:seq 53,
+  :level 3,
+  :title "Bangun Datar",
+  :code "K13R-01010107",
+  :parent-code "K13R-010101"}
+ {:seq 54,
+  :level 4,
+  :title "Bangun Datar",
+  :code "K13R-0101010701",
+  :parent-code "K13R-01010107"}
+ {:seq 55,
+  :level 5,
+  :title "segitiga",
+  :code "K13R-010101070101",
+  :parent-code "K13R-0101010701"}
+ {:seq 56,
+  :level 5,
+  :title "persegi dan persegi panjang",
+  :code "K13R-010101070102",
+  :parent-code "K13R-0101010701"}
+ {:seq 57,
+  :level 5,
+  :title "lingkaran",
+  :code "K13R-010101070103",
+  :parent-code "K13R-0101010701"}]
