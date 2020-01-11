@@ -7,4 +7,5 @@
                  [dk.ative/docjure "1.12.0"]
                  [clj-time "0.15.2"]
                  [me.raynes/fs "1.4.6"]]
+  :source-paths ["src"]
   :repl-options {:init-ns app.core})
