@@ -28,11 +28,12 @@
   (let [totals (+ secs (* 60 mins))
         res (cond
               (< totals amount) 0
-              (<= mins 15) (- (+ secs (* 60 mins)) 1)
-              (< 15 mins 25) (- (+ (* 60 mins) secs) 2)
-              (<= 25 mins 30) (- (+ (* 60 mins) secs) 3)
-              (<= 30 mins 35) (- (+ (* 60 mins) secs) 4)
-              (< 35 mins 450) (- (+ (* 60 mins) secs) 5))]
+              (<= mins 15) (- (+ secs (* 60 mins)) 3)
+              (< 15 mins 20) (- (+ (* 60 mins) secs) 6)
+              (<= 20 mins 25) (- (+ (* 60 mins) secs) 6)
+              (<= 25 mins 30) (- (+ (* 60 mins) secs) 7)
+              (<= 30 mins 35) (- (+ (* 60 mins) secs) 9)
+              (< 35 mins 45) (- (+ (* 60 mins) secs) 11))]
     res))
 
 (defn convert
